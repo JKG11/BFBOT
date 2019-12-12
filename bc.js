@@ -16,18 +16,6 @@ client.on("message", message => {
 });
 
 
-client.on('ready', () => {
-   console.log(`----------------`);
-      console.log(`Desert Bot- Script By : AJK`);
-        console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : AJK ' `);
-    console.log(`tez samir betefta7`);
-	console.log(`----------------`);
-  console.log(`Logged in as ${client.user.tag}!`);
-client.user.setActivity(`$JB | for broadcasting`,"http://twitch.tv/S-F")
-client.user.setStatus("dnd")
-});
-
 
 
 client.login("NjU0NzA0NDU1NTM0NzcyMjM1.XfJbMA._y5xSMrqKZNnDTn3-SYoMtO9VN4")
